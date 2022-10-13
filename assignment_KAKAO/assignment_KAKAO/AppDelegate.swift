@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  week1_assignment
+//  assignment_KAKAO
 //
-//  Created by 김민서 on 2022/10/06.
+//  Created by 김민서 on 2022/10/13.
 //
 
 import UIKit
